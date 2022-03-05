@@ -18,19 +18,19 @@ h1{
     color: aliceblue;
 }
 
-.styling{
+.title{
     font-weight: 800;
     color: greenyellow;
 }
 
-.input-div{
+.inputDiv{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
 
-.input-div .input{
+.inputDiv .input{
     padding: 0.5rem 1rem;
     height: 50px;
     outline: none;
@@ -42,7 +42,7 @@ h1{
     border: none;
 }
 
-.addBtn{
+.add{
     font-size: 1.4rem;
     height: 50px;
     width: 50px;
@@ -55,7 +55,7 @@ h1{
     cursor: pointer;
 }
 
-.addBtn:hover{
+.add:hover{
     opacity: 0.7;
 }
 
